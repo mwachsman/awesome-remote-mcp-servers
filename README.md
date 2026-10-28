@@ -1023,6 +1023,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
   [![BotKelp MCP connector](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp)
   🔓 - Generate stamped Next.js scaffolds from a verified component catalog with INTEGRITY.json checks.
+- [BugBug](https://bugbug.io) `https://mcp.bugbug.io/mcp`
+  [![BugBug MCP connector](https://glama.ai/mcp/connectors/io.github.bugbug-io/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bugbug-io/mcp)
+  🔐 - Create, run and debug BugBug end-to-end browser tests, suites and failed runs from your AI agent.
 - [CacheBoost](https://www.cache-boost.com/support/mcp/overview) `https://api.cache-boost.com/mcp`
   [![CacheBoost MCP connector](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost/badges/score.svg)](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost)
   🔑 - Warm CDN and reverse-proxy caches from 12 regions after a deploy or purge, then read the run's hit/miss stats.
